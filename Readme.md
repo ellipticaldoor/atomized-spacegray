@@ -2,9 +2,8 @@
 
 > Sublime Text 3 color scheme
 
-
-## Colors
-´´´
+## Colors
+~~~
 light-gray: #969896
 gray: #373b41
 cyan: #8abeb7
@@ -18,4 +17,4 @@ very-light-blue: #eff1f5
 light-blue: #e2e4ea
 gray-blue: #9fa6ad
 space-gray: #4e5a66
-´´´
+~~~
