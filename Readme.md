@@ -3,6 +3,7 @@
 > Sublime Text 3 color scheme
 
 ## Colors
+Color scheme
 ´´´
 light-gray: #969896
 gray: #373b41
