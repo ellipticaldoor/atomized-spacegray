@@ -34,7 +34,7 @@
 				<key>invisibles</key>
 				<string>#8e908c</string>
 				<key>lineHighlight</key>
-				<string>#EFF1F591</string>
+				<string>#C1E1FF3B</string>
 				<key>popupCss</key>
 				<string>
 html {
