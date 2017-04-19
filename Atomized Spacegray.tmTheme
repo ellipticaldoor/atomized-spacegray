@@ -22,15 +22,15 @@
 				<key>activeGuide</key>
 				<string>#00000055</string>
 				<key>background</key>
-				<string>#FFFFFF</string>
+				<string>#fbfbfc</string>
 				<key>caret</key>
-				<string>#4E5A66E8</string>
+				<string>#8e908c</string>
 				<key>foreground</key>
 				<string>#4E5A66E8</string>
 				<key>guide</key>
 				<string>#00000025</string>
 				<key>gutter</key>
-				<string>#ffffff</string>
+				<string>#fbfbfc</string>
 				<key>invisibles</key>
 				<string>#8e908c</string>
 				<key>lineHighlight</key>
