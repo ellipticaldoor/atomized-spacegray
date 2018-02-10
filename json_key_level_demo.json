@@ -1,0 +1,25 @@
+{
+	"level 1": 1111,
+	"level 1": {
+		"level 2": 2222,
+		"level 2": {
+			"level 3": 3333,
+				"level 3": {
+				"level 4": 4444,
+				"level 4": {
+					"level 5": 5555,
+					"level 5": {
+						"level 6": 6666,
+						"level 6": {
+							"level 7": 7777,
+							"level 7": {
+								"level 8": 8888,
+								"level 8": 8888
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}
