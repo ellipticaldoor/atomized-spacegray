@@ -1,3 +1,3 @@
-# Atomized Spacegray
+# Custom Themes
 
-> Sublime Text 3 color scheme
+> Sublime Text 3 color schemes
