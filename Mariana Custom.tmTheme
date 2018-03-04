@@ -83,7 +83,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f5871f</string>
+				<string>#f9ae58</string>
 			</dict>
 		</dict>
 		<dict>
@@ -105,7 +105,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6699cc</string>
+				<string>#6699ee</string>
 			</dict>
 		</dict>
 		<dict>
@@ -117,6 +117,28 @@
 			<dict>
 				<key>foreground</key>
 				<string>#D8DEE9</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JavaScript unquoted object literal key</string>
+			<key>scope</key>
+			<string>meta.object-literal.key, meta.object-literal.key string.unquoted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#5fb3b3</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Import</string>
+			<key>scope</key>
+			<string>keyword.operator.word, keyword.control.import-export</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#f9ae58</string>
 			</dict>
 		</dict>
 		<dict>
@@ -224,13 +246,25 @@
 			<key>name</key>
 			<string>Punctuation</string>
 			<key>scope</key>
-			<string>punctuation.separator, punctuation.terminator</string>
+			<string>punctuation.separator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#c594c5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Punctuation</string>
+			<key>scope</key>
+			<string>punctuation.terminator</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#A7ADBA</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Punctuation</string>
@@ -250,7 +284,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A7ADBA</string>
+				<string>#f9ae58</string>
 			</dict>
 		</dict>
 		<dict>
@@ -394,7 +428,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#6699cc</string>
+				<string>#6699ee</string>
 			</dict>
 		</dict>
 		<dict>
@@ -405,7 +439,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6699cc</string>
+				<string>#6699ee</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
@@ -431,7 +465,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6699cc</string>
+				<string>#6699ee</string>
 				<key>fontStyle</key>
 				<string>italic</string>
 			</dict>
@@ -525,7 +559,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6699cc</string>
+				<string>#6699ee</string>
 			</dict>
 		</dict>
 		<dict>
