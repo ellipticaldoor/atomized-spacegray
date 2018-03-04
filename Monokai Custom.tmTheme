@@ -109,7 +109,7 @@
 				<string>#E6DB74</string>
 			</dict>
 		</dict>
-				<dict>
+		<dict>
 			<key>name</key>
 			<string>JavaScript unquoted object literal key</string>
 			<key>scope</key>
@@ -128,7 +128,29 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
+				<string>#f9ae58</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Accessor</string>
+			<key>scope</key>
+			<string>punctuation.accessor</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
 				<string>#F92672</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Punctuation</string>
+			<key>scope</key>
+			<string>punctuation.separator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66D9EF</string>
 			</dict>
 		</dict>
 		<dict>
