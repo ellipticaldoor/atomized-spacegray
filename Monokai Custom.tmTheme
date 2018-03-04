@@ -99,7 +99,7 @@
 			</dict>
 		</dict>
 		<dict>
-			<key>name</key>
+		<key>name</key>
 			<string>JSON Key - Level 0</string>
 			<key>scope</key>
 			<string>source.json meta.structure.dictionary.json string.quoted.double.json - meta.structure.dictionary.json meta.structure.dictionary.value.json string.quoted.double.json, source.json meta.structure.dictionary.json punctuation.definition.string - meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string</string>
@@ -107,6 +107,28 @@
 			<dict>
 				<key>foreground</key>
 				<string>#E6DB74</string>
+			</dict>
+		</dict>
+				<dict>
+			<key>name</key>
+			<string>JavaScript unquoted object literal key</string>
+			<key>scope</key>
+			<string>meta.object-literal.key, meta.object-literal.key string.unquoted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Import</string>
+			<key>scope</key>
+			<string>keyword.operator.word, keyword.control.import-export</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
 			</dict>
 		</dict>
 		<dict>
